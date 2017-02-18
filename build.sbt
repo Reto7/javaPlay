@@ -1,3 +1,5 @@
+import play.sbt.PlayJava
+
 name := """play-java-Reto-Github"""
 
 version := "1.0-SNAPSHOT"
@@ -12,7 +14,5 @@ libraryDependencies ++= Seq(
   javaJpa,
   "org.hibernate" % "hibernate-entitymanager" % "4.3.7.Final"
 )
-
-
 
 fork in run := true
