@@ -1,4 +1,4 @@
-name := """play-java-intro"""
+name := """play-java-Reto-Github"""
 
 version := "1.0-SNAPSHOT"
 
