@@ -1,6 +1,6 @@
 import play.sbt.PlayJava
 
-name := """play-java-Reto-Github"""
+name := """play-java-intro"""
 
 version := "1.0-SNAPSHOT"
 
